@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proyecto1", "Proyecto1\Proyecto1.csproj", "{EBBDC74A-5A41-47F9-B3EE-B5D4C1DEAABB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DB670831-D011-4718-9234-C8566CA2B546}"
+	ProjectSection(SolutionItems) = preProject
+		Validador.cs = Validador.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 01 - .NET", "Clase 01 - .NET", "{180D78AB-A676-424F-ACFB-9AF1FC31EFA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01 - Máximo, mínimo y promedio", "Clase 01 - .NET\I01 - Máximo, mínimo y promedio\I01 - Máximo, mínimo y promedio.csproj", "{BBB991F5-46DF-46E2-9A53-3FAD7362EC3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I02 - Error al cubo", "Clase 01 - .NET\I02 - Error al cubo\I02 - Error al cubo.csproj", "{2375C323-844B-4622-9E85-D6855B9194DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I03 - Los primos", "Clase 01 - .NET\I03 - Los primos\I03 - Los primos.csproj", "{CD4BE612-5663-4F82-ACF2-FF673CDDB776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I04 - Un número perfecto", "Clase 01 - .NET\I04 - Un número perfecto\I04 - Un número perfecto.csproj", "{93628A60-0FB5-4B2D-BED3-F989C8FB7C6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I06 - Años bisiestos", "Clase 01 - .NET\I06 - Años bisiestos\I06 - Años bisiestos.csproj", "{50BDA1F1-5F0F-4308-80E4-98790E7FDED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I07 - Recibo de sueldo", "Clase 01 - .NET\I07 - Recibo de sueldo\I07 - Recibo de sueldo.csproj", "{93591AED-FC56-41DC-BF8A-F4F27B295AAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 03 - Class y Metod", "Clase 03 - Class y Metod", "{44611744-52F1-4AAB-AC51-C0DCF39CDDDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01 - Validador de rangos", "Clase 03 - Class y Metod\I01 - Validador de rangos\I01 - Validador de rangos.csproj", "{E5825DE1-B1FA-4BAA-AE7A-BBF9D23EEF5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBDC74A-5A41-47F9-B3EE-B5D4C1DEAABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBDC74A-5A41-47F9-B3EE-B5D4C1DEAABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBDC74A-5A41-47F9-B3EE-B5D4C1DEAABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBDC74A-5A41-47F9-B3EE-B5D4C1DEAABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB991F5-46DF-46E2-9A53-3FAD7362EC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB991F5-46DF-46E2-9A53-3FAD7362EC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB991F5-46DF-46E2-9A53-3FAD7362EC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB991F5-46DF-46E2-9A53-3FAD7362EC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2375C323-844B-4622-9E85-D6855B9194DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2375C323-844B-4622-9E85-D6855B9194DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2375C323-844B-4622-9E85-D6855B9194DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2375C323-844B-4622-9E85-D6855B9194DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD4BE612-5663-4F82-ACF2-FF673CDDB776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4BE612-5663-4F82-ACF2-FF673CDDB776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4BE612-5663-4F82-ACF2-FF673CDDB776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4BE612-5663-4F82-ACF2-FF673CDDB776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93628A60-0FB5-4B2D-BED3-F989C8FB7C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93628A60-0FB5-4B2D-BED3-F989C8FB7C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93628A60-0FB5-4B2D-BED3-F989C8FB7C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93628A60-0FB5-4B2D-BED3-F989C8FB7C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50BDA1F1-5F0F-4308-80E4-98790E7FDED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BDA1F1-5F0F-4308-80E4-98790E7FDED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BDA1F1-5F0F-4308-80E4-98790E7FDED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BDA1F1-5F0F-4308-80E4-98790E7FDED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93591AED-FC56-41DC-BF8A-F4F27B295AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93591AED-FC56-41DC-BF8A-F4F27B295AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93591AED-FC56-41DC-BF8A-F4F27B295AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93591AED-FC56-41DC-BF8A-F4F27B295AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5825DE1-B1FA-4BAA-AE7A-BBF9D23EEF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5825DE1-B1FA-4BAA-AE7A-BBF9D23EEF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5825DE1-B1FA-4BAA-AE7A-BBF9D23EEF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5825DE1-B1FA-4BAA-AE7A-BBF9D23EEF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BBB991F5-46DF-46E2-9A53-3FAD7362EC3B} = {180D78AB-A676-424F-ACFB-9AF1FC31EFA2}
+		{2375C323-844B-4622-9E85-D6855B9194DC} = {180D78AB-A676-424F-ACFB-9AF1FC31EFA2}
+		{CD4BE612-5663-4F82-ACF2-FF673CDDB776} = {180D78AB-A676-424F-ACFB-9AF1FC31EFA2}
+		{93628A60-0FB5-4B2D-BED3-F989C8FB7C6B} = {180D78AB-A676-424F-ACFB-9AF1FC31EFA2}
+		{50BDA1F1-5F0F-4308-80E4-98790E7FDED3} = {180D78AB-A676-424F-ACFB-9AF1FC31EFA2}
+		{93591AED-FC56-41DC-BF8A-F4F27B295AAC} = {180D78AB-A676-424F-ACFB-9AF1FC31EFA2}
+		{E5825DE1-B1FA-4BAA-AE7A-BBF9D23EEF5D} = {44611744-52F1-4AAB-AC51-C0DCF39CDDDE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF16BAB5-45F5-4952-BE95-915885231A72}
+	EndGlobalSection
+EndGlobal
