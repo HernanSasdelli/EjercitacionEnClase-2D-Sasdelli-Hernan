@@ -8,13 +8,13 @@ public class Validador
         {
             return false; 
         }
-        return true;
+        else
+        {
+            return true;
+        }
+        
     }
 
-    bool esNumerico(string valorIngresado)
-    {
-       
-    }
 
 
 }

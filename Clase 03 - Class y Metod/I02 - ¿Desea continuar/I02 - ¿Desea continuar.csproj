@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>I01___Validador_de_rangos</RootNamespace>
+    <RootNamespace>I02____Desea_continuar</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
